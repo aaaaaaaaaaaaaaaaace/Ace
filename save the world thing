@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<style>
+body {
+    background-color: lightblue;
+}
+h1{
+  text-align: center;
+}
+
+body{
+  text-align: center;
+}
+        </style>
+  </head>
+  <h1>Suggestion Box</h1>
+    <body>
+      <img src = "http://pcomstudentcouncil.com/wp-content/uploads/2018/05/suggestion-box-e1527787946907.jpg" >
+      <br>
+      <br>
+      <form action = "" method = "post" >
+        <input type = "text" placeholder="Enter Your Suggestion "name = "suggestion"/>
+        <input type = "Submit" value = "Submit"/>
+       </form>
+      <br>
+      
+      
+    </body>
+  
+</html>
